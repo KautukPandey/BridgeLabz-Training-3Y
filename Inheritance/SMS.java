@@ -1,3 +1,4 @@
+package Inheritance;
 class Device {
     String deviceId;
     String status;

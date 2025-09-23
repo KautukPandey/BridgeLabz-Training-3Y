@@ -1,3 +1,4 @@
+package Inheritance;
 class Order {
     String orderId;
     String orderDate;
