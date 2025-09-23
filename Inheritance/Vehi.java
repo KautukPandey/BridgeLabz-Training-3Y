@@ -1,3 +1,4 @@
+
 class Vehicle {
     int maxSpeed;
     String fuelType;
