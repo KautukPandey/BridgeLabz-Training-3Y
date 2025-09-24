@@ -1,0 +1,35 @@
+1. Difference b/w JDK & JRE
+-> JDK is used to create and run java code and used by developers, while JRE is used only for running code and used by normal people.
+   JDK = Java Development Kit , JRE = Java Runtime Environment
+
+
+2. JVM
+-> Java Virtual Machine is used to convert byte code into machine code.
+
+
+3. What are the different types of memory areas allocated by JVM?
+-> Heap, Stack, Method area.
+
+
+4. What is JIT compiler?
+-> Just in Time compiler is used to convert byte code into machine code at runtime, faster execution.
+
+
+5. How Java platform is different from other platforms?
+-> Java platform is different from other platforms because it compiles byte code which runs on JVM, thus independent of OS.
+
+
+6. Why people say that Java is ‘write once and run anywhere’ language?
+-> As java is compiled in byte code so any OS having JVM can run Java.
+
+
+7. How does ClassLoader work in Java?
+-> Loads class into memory during runtime.
+
+
+8. Do you think ‘main’ used for main method is a keyword in Java?
+-> No, main is just the name of the function whereas keywords are public, static and void.
+
+
+9. Can we write main method as public void static instead of public static void?
+-> No, we cannot write.
